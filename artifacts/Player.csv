@@ -1,0 +1,536 @@
+PERSON_ID,full_name,first_name,last_name,TEAM_NAME,regular_season_TotalScore,playoff_TotalScore,Total_Score
+1630173,Precious Achiuwa,Precious,Achiuwa,Raptors,1476.0,68.0,1544.0
+203500,Steven Adams,Steven,Adams,Grizzlies,6518.0,509.0,7027.0
+1628389,Bam Adebayo,Bam,Adebayo,Heat,6146.0,1095.0,7241.0
+1630534,Ochai Agbaji,Ochai,Agbaji,Jazz,467.0,0.0,467.0
+1630583,Santi Aldama,Santi,Aldama,Grizzlies,828.0,39.0,867.0
+1629638,Nickeil Alexander-Walker,Nickeil,Alexander-Walker,Timberwolves,1830.0,47.0,1877.0
+1628960,Grayson Allen,Grayson,Allen,Bucks,2556.0,199.0,2755.0
+1628386,Jarrett Allen,Jarrett,Allen,Cavaliers,4914.0,143.0,5057.0
+1630631,Jose Alvarado,Jose,Alvarado,Pelicans,880.0,48.0,928.0
+203937,Kyle Anderson,Kyle,Anderson,Timberwolves,4013.0,281.0,4294.0
+203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,Bucks,16280.0,2105.0,18385.0
+203648,Thanasis Antetokounmpo,Thanasis,Antetokounmpo,Bucks,449.0,14.0,463.0
+1630175,Cole Anthony,Cole,Anthony,Magic,2448.0,0.0,2448.0
+1628384,O.G. Anunoby,O.G.,Anunoby,Raptors,4268.0,298.0,4566.0
+1627853,Ryan Arcidiacono,Ryan,Arcidiacono,NOTEAM,1031.0,0.0,1031.0
+1630166,Deni Avdija,Deni,Avdija,Wizards,1724.0,0.0,1724.0
+1629028,Deandre Ayton,Deandre,Ayton,Suns,5046.0,714.0,5760.0
+1628962,Udoka Azubuike,Udoka,Azubuike,Jazz,221.0,0.0,221.0
+1630641,Ibou Badji,Ibou,Badji,NOTEAM,,,
+1628963,Marvin Bagley III,Marvin,Bagley III,Pistons,2760.0,0.0,2760.0
+1631116,Patrick Baldwin Jr.,Patrick,Baldwin Jr.,Warriors,122.0,0.0,122.0
+1630163,LaMelo Ball,LaMelo,Ball,Hornets,3149.0,0.0,3149.0
+1628366,Lonzo Ball,Lonzo,Ball,NOTEAM,,,
+1628964,Mo Bamba,Mo,Bamba,Lakers,2070.0,0.0,2070.0
+1631094,Paolo Banchero,Paolo,Banchero,Magic,1437.0,0.0,1437.0
+1630217,Desmond Bane,Desmond,Bane,Grizzlies,3256.0,394.0,3650.0
+1630625,Dalano Banton,Dalano,Banton,Raptors,347.0,7.0,354.0
+1631230,Dominick Barlow,Dominick,Barlow,Spurs,110.0,0.0,110.0
+203084,Harrison Barnes,Harrison,Barnes,Kings,11796.0,762.0,12558.0
+1630567,Scottie Barnes,Scottie,Barnes,Raptors,2313.0,51.0,2364.0
+1629628,RJ Barrett,RJ,Barrett,Knicks,4900.0,284.0,5184.0
+203115,Will Barton,Will,Barton,Raptors,7625.0,290.0,7915.0
+1629646,Charles Bassey,Charles,Bassey,Spurs,268.0,2.0,270.0
+1628966,Keita Bates-Diop,Keita,Bates-Diop,Spurs,1500.0,3.0,1503.0
+201587,Nicolas Batum,Nicolas,Batum,Clippers,10627.0,579.0,11206.0
+1629647,Darius Bazley,Darius,Bazley,Suns,2065.0,46.0,2111.0
+203078,Bradley Beal,Bradley,Beal,Wizards,15391.0,1057.0,16448.0
+1627736,Malik Beasley,Malik,Beasley,Lakers,4513.0,197.0,4710.0
+1630699,MarJon Beauchamp,MarJon,Beauchamp,Bucks,266.0,5.0,271.0
+202722,Davis Bertans,Davis,Bertans,Mavericks,3371.0,179.0,3550.0
+201976,Patrick Beverley,Patrick,Beverley,Bulls,5069.0,532.0,5601.0
+1630180,Saddiq Bey,Saddiq,Bey,Hawks,3240.0,45.0,3285.0
+203920,Khem Birch,Khem,Birch,Spurs,1402.0,68.0,1470.0
+1629048,Goga Bitadze,Goga,Bitadze,Magic,919.0,0.0,919.0
+202687,Bismack Biyombo,Bismack,Biyombo,Suns,4077.0,183.0,4260.0
+1631205,Buddy Boeheim,Buddy,Boeheim,Pistons,16.0,0.0,16.0
+203992,Bogdan Bogdanovic,Bogdan,Bogdanovic,Hawks,5257.0,390.0,5647.0
+202711,Bojan Bogdanovic,Bojan,Bogdanovic,Pistons,10316.0,643.0,10959.0
+1629626,Bol Bol,Bol,Bol,Magic,776.0,19.0,795.0
+1630195,Leandro Bolmaro,Leandro,Bolmaro,NOTEAM,56.0,0.0,56.0
+1626164,Devin Booker,Devin,Booker,Suns,12688.0,1205.0,13893.0
+1630527,Brandon Boston Jr.,Brandon,Boston Jr.,Clippers,486.0,0.0,486.0
+1628449,Chris Boucher,Chris,Boucher,Raptors,2788.0,80.0,2868.0
+1630547,James Bouknight,James,Bouknight,Hornets,333.0,0.0,333.0
+1631123,Jamaree Bouyea,Jamaree,Bouyea,NOTEAM,15.0,0.0,15.0
+1628396,Tony Bradley,Tony,Bradley,NOTEAM,792.0,21.0,813.0
+1631103,Malaki Branham,Malaki,Branham,Spurs,673.0,0.0,673.0
+1629714,Jarrell Brantley,Jarrell,Brantley,NOTEAM,110.0,2.0,112.0
+1631128,Christian Braun,Christian,Braun,Nuggets,360.0,61.0,421.0
+1628969,Mikal Bridges,Mikal,Bridges,Nets,5154.0,511.0,5665.0
+1629052,Oshae Brissett,Oshae,Brissett,Pacers,1277.0,0.0,1277.0
+1627763,Malcolm Brogdon,Malcolm,Brogdon,Celtics,6159.0,518.0,6677.0
+1628415,Dillon Brooks,Dillon,Brooks,Grizzlies,5002.0,353.0,5355.0
+1628971,Bruce Brown,Bruce,Brown,Nuggets,2979.0,404.0,3383.0
+1627759,Jaylen Brown,Jaylen,Brown,Celtics,8428.0,1911.0,10339.0
+1631112,Kendall Brown,Kendall,Brown,Pacers,9.0,0.0,9.0
+1629650,Moses Brown,Moses,Brown,NOTEAM,707.0,0.0,707.0
+1628425,Sterling Brown,Sterling,Brown,NOTEAM,1431.0,63.0,1494.0
+1630535,Greg Brown III,Greg,Brown III,NOTEAM,253.0,0.0,253.0
+1628972,Troy Brown Jr.,Troy,Brown Jr.,Lakers,1949.0,34.0,1983.0
+1628973,Jalen Brunson,Jalen,Brunson,Knicks,4919.0,750.0,5669.0
+1628418,Thomas Bryant,Thomas,Bryant,Nuggets,2312.0,0.0,2312.0
+203493,Reggie Bullock,Reggie,Bullock,Mavericks,3943.0,248.0,4191.0
+202692,Alec Burks,Alec,Burks,Pistons,7301.0,220.0,7521.0
+1629126,Deonte Burton,Deonte,Burton,NOTEAM,186.0,2.0,188.0
+1630215,Jared Butler,Jared,Butler,Thunder,198.0,0.0,198.0
+202710,Jimmy Butler,Jimmy,Butler,Heat,13688.0,2534.0,16222.0
+1631219,John Butler Jr.,John,Butler Jr.,Trail Blazers,45.0,0.0,45.0
+1631288,Jamal Cain,Jamal,Cain,Heat,98.0,0.0,98.0
+203484,Kentavious Caldwell-Pope,Kentavious,Caldwell-Pope,Nuggets,8733.0,529.0,9262.0
+1630267,Facundo Campazzo,Facundo,Campazzo,NOTEAM,738.0,93.0,831.0
+1628427,Vlatko Cancar,Vlatko,Cancar,Nuggets,461.0,16.0,477.0
+203991,Clint Capela,Clint,Capela,Hawks,6630.0,739.0,7369.0
+1630176,Vernon Carey Jr.,Vernon,Carey Jr.,Jazz,72.0,0.0,72.0
+1628975,Jevon Carter,Jevon,Carter,Bucks,1635.0,34.0,1669.0
+1628976,Wendell Carter Jr.,Wendell,Carter Jr.,Magic,3344.0,0.0,3344.0
+203487,Michael Carter-Williams,Michael,Carter-Williams,Magic,4040.0,120.0,4160.0
+1627936,Alex Caruso,Alex,Caruso,Bulls,1760.0,197.0,1957.0
+1630577,Julian Champagnie,Julian,Champagnie,Spurs,165.0,0.0,165.0
+1630551,Justin Champagnie,Justin,Champagnie,Celtics,92.0,2.0,94.0
+1631113,Kennedy Chandler,Kennedy,Chandler,NOTEAM,78.0,0.0,78.0
+1631108,Max Christie,Max,Christie,Lakers,128.0,13.0,141.0
+1630528,Josh Christopher,Josh,Christopher,Rockets,959.0,0.0,959.0
+1629634,Brandon Clarke,Brandon,Clarke,Grizzlies,2534.0,150.0,2684.0
+203903,Jordan Clarkson,Jordan,Clarkson,Jazz,10487.0,505.0,10992.0
+1629651,Nic Claxton,Nic,Claxton,Nets,1649.0,114.0,1763.0
+1629599,Amir Coffey,Amir,Coffey,Clippers,989.0,9.0,998.0
+1628381,John Collins,John,Collins,Hawks,5768.0,365.0,6133.0
+1628380,Zach Collins,Zach,Collins,Spurs,1830.0,137.0,1967.0
+201144,Mike Conley,Mike,Conley,Timberwolves,15019.0,1231.0,16250.0
+1626192,Pat Connaughton,Pat,Connaughton,Bucks,2935.0,484.0,3419.0
+1641645,Xavier Cooks,Xavier,Cooks,Wizards,38.0,0.0,38.0
+203496,Robert Covington,Robert,Covington,Clippers,6510.0,271.0,6781.0
+1628470,Torrey Craig,Torrey,Craig,Suns,2286.0,356.0,2642.0
+203109,Jae Crowder,Jae,Crowder,Bucks,7180.0,1149.0,8329.0
+1629633,Jarrett Culver,Jarrett,Culver,NOTEAM,934.0,7.0,941.0
+1630595,Cade Cunningham,Cade,Cunningham,Pistons,1353.0,0.0,1353.0
+203552,Seth Curry,Seth,Curry,Nets,4806.0,476.0,5282.0
+201939,Stephen Curry,Stephen,Curry,Warriors,21712.0,3966.0,25678.0
+1630700,Dyson Daniels,Dyson,Daniels,Pelicans,227.0,0.0,227.0
+203076,Anthony Davis,Anthony,Davis,Lakers,15841.0,1427.0,17268.0
+1631098,Johnny Davis,Johnny,Davis,Wizards,163.0,0.0,163.0
+1629056,Terence Davis,Terence,Davis,Kings,1818.0,67.0,1885.0
+1631120,JD Davison,JD,Davison,Celtics,19.0,0.0,19.0
+1630620,Darius Days,Darius,Days,Rockets,15.0,0.0,15.0
+201942,DeMar DeRozan,DeMar,DeRozan,Bulls,21685.0,1375.0,23060.0
+203473,Dewayne Dedmon,Dewayne,Dedmon,76ers,3255.0,123.0,3378.0
+203521,Matthew Dellavedova,Matthew,Dellavedova,Kings,2510.0,279.0,2789.0
+1628978,Donte DiVincenzo,Donte,DiVincenzo,Warriors,2487.0,145.0,2632.0
+1631217,Moussa Diabate,Moussa,Diabate,Clippers,59.0,0.0,59.0
+1629603,Mamadi Diakite,Mamadi,Diakite,Cavaliers,157.0,7.0,164.0
+1628977,Hamidou Diallo,Hamidou,Diallo,Pistons,2270.0,13.0,2283.0
+203476,Gorgui Dieng,Gorgui,Dieng,Spurs,4591.0,20.0,4611.0
+1631172,Ousmane Dieng,Ousmane,Dieng,Thunder,193.0,0.0,193.0
+203915,Spencer Dinwiddie,Spencer,Dinwiddie,Nets,6411.0,396.0,6807.0
+1629029,Luka Doncic,Luka,Doncic,Mavericks,9100.0,911.0,10011.0
+1628416,Tyler Dorsey,Tyler,Dorsey,NOTEAM,710.0,0.0,710.0
+1629652,Luguentz Dort,Luguentz,Dort,Thunder,2863.0,75.0,2938.0
+1630245,Ayo Dosunmu,Ayo,Dosunmu,Bulls,1366.0,20.0,1386.0
+1629653,Devon Dotson,Devon,Dotson,NOTEAM,55.0,0.0,55.0
+1630288,Jeff Dowtin Jr.,Jeff,Dowtin Jr.,Raptors,80.0,0.0,80.0
+1628408,PJ Dozier,PJ,Dozier,Kings,693.0,46.0,739.0
+201609,Goran Dragic,Goran,Dragic,Bucks,12568.0,880.0,13448.0
+203083,Andre Drummond,Andre,Drummond,Bulls,10337.0,184.0,10521.0
+1630537,Chris Duarte,Chris,Duarte,Pacers,1082.0,0.0,1082.0
+1630561,David Duke Jr.,David,Duke Jr.,Nets,189.0,2.0,191.0
+1627739,Kris Dunn,Kris,Dunn,Jazz,2285.0,6.0,2291.0
+201142,Kevin Durant,Kevin,Durant,Suns,26892.0,4878.0,31770.0
+1631105,Jalen Duren,Jalen,Duren,Pistons,612.0,0.0,612.0
+1631106,Tari Eason,Tari,Eason,Rockets,760.0,0.0,760.0
+1630162,Anthony Edwards,Anthony,Edwards,Timberwolves,4871.0,309.0,5180.0
+1630556,Kessler Edwards,Kessler,Edwards,Kings,384.0,0.0,384.0
+1631165,Keon Ellis,Keon,Ellis,Kings,24.0,0.0,24.0
+203954,Joel Embiid,Joel,Embiid,76ers,10718.0,1271.0,11989.0
+1629234,Drew Eubanks,Drew,Eubanks,Trail Blazers,1523.0,0.0,1523.0
+1628981,Bruno Fernando,Bruno,Fernando,Hawks,532.0,6.0,538.0
+1627827,Dorian Finney-Smith,Dorian,Finney-Smith,Nets,3780.0,369.0,4149.0
+1630201,Malachi Flynn,Malachi,Flynn,Raptors,788.0,0.0,788.0
+1631323,Simone Fontecchio,Simone,Fontecchio,Jazz,328.0,0.0,328.0
+1627854,Bryn Forbes,Bryn,Forbes,NOTEAM,3776.0,263.0,4039.0
+1630235,Trent Forrest,Trent,Forrest,Hawks,335.0,4.0,339.0
+1630701,Michael Foster Jr.,Michael,Foster Jr.,NOTEAM,0.0,0.0,0.0
+203095,Evan Fournier,Evan,Fournier,Knicks,9387.0,222.0,9609.0
+1628368,De'Aaron Fox,De'Aaron,Fox,Kings,7974.0,192.0,8166.0
+1628365,Markelle Fultz,Markelle,Fultz,Magic,2260.0,65.0,2325.0
+1629117,Wenyen Gabriel,Wenyen,Gabriel,Lakers,648.0,31.0,679.0
+1629655,Daniel Gafford,Daniel,Gafford,Wizards,1982.0,59.0,2041.0
+201568,Danilo Gallinari,Danilo,Gallinari,NOTEAM,,,
+1629636,Darius Garland,Darius,Garland,Cavaliers,4632.0,103.0,4735.0
+1630586,Usman Garuba,Usman,Garuba,Rockets,273.0,0.0,273.0
+1630568,Luka Garza,Luka,Garza,Timberwolves,367.0,0.0,367.0
+200752,Rudy Gay,Rudy,Gay,Jazz,17642.0,272.0,17914.0
+202331,Paul George,Paul,George,Clippers,16361.0,2299.0,18660.0
+201959,Taj Gibson,Taj,Gibson,Wizards,8256.0,553.0,8809.0
+1630581,Josh Giddey,Josh,Giddey,Thunder,1934.0,0.0,1934.0
+1628983,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,Thunder,6556.0,196.0,6752.0
+1630264,Anthony Gill,Anthony,Gill,Wizards,455.0,0.0,455.0
+1631221,Collin Gillespie,Collin,Gillespie,NOTEAM,,,
+203497,Rudy Gobert,Rudy,Gobert,Timberwolves,8531.0,732.0,9263.0
+1630692,Jordan Goodwin,Jordan,Goodwin,Wizards,407.0,0.0,407.0
+203932,Aaron Gordon,Aaron,Gordon,Nuggets,7996.0,521.0,8517.0
+201569,Eric Gordon,Eric,Gordon,Clippers,13119.0,933.0,14052.0
+1628984,Devonte' Graham,Devonte',Graham,Spurs,3619.0,24.0,3643.0
+203924,Jerami Grant,Jerami,Grant,Trail Blazers,7619.0,368.0,7987.0
+1631260,AJ Green,AJ,Green,Bucks,154.0,0.0,154.0
+201980,Danny Green,Danny,Green,Cavaliers,7204.0,1338.0,8542.0
+203110,Draymond Green,Draymond,Green,Warriors,6577.0,1825.0,8402.0
+203210,JaMychal Green,JaMychal,Green,Warriors,4208.0,315.0,4523.0
+1630224,Jalen Green,Jalen,Green,Rockets,2840.0,0.0,2840.0
+1629750,Javonte Green,Javonte,Green,Bulls,942.0,10.0,952.0
+201145,Jeff Green,Jeff,Green,Nuggets,13732.0,877.0,14609.0
+1630182,Josh Green,Josh,Green,Mavericks,966.0,23.0,989.0
+1631100,AJ Griffin,AJ,Griffin,Hawks,639.0,0.0,639.0
+201933,Blake Griffin,Blake,Griffin,Celtics,14513.0,1238.0,15751.0
+1629656,Quentin Grimes,Quentin,Grimes,Knicks,1074.0,46.0,1120.0
+1629060,Rui Hachimura,Rui,Hachimura,Lakers,2620.0,269.0,2889.0
+1630169,Tyrese Haliburton,Tyrese,Haliburton,Pacers,3094.0,0.0,3094.0
+1631160,Jordan Hall,Jordan,Hall,NOTEAM,28.0,0.0,28.0
+1630181,R.J. Hampton,R.J.,Hampton,Pistons,1145.0,0.0,1145.0
+203501,Tim Hardaway Jr.,Tim,Hardaway Jr.,Mavericks,9168.0,323.0,9491.0
+201935,James Harden,James,Harden,76ers,24693.0,3637.0,28330.0
+1630702,Jaden Hardy,Jaden,Hardy,Mavericks,420.0,0.0,420.0
+1631199,Ron Harper Jr.,Ron,Harper Jr.,Raptors,20.0,0.0,20.0
+1626149,Montrezl Harrell,Montrezl,Harrell,76ers,6220.0,277.0,6497.0
+203914,Gary Harris,Gary,Harris,Magic,5923.0,303.0,6226.0
+203925,Joe Harris,Joe,Harris,Nets,5146.0,226.0,5372.0
+1630284,Kevon Harris,Kevon,Harris,Magic,141.0,0.0,141.0
+202699,Tobias Harris,Tobias,Harris,76ers,13398.0,939.0,14337.0
+1628404,Josh Hart,Josh,Hart,Knicks,3661.0,114.0,3775.0
+1628392,Isaiah Hartenstein,Isaiah,Hartenstein,Knicks,1365.0,38.0,1403.0
+2617,Udonis Haslem,Udonis,Haslem,Heat,6586.0,833.0,7419.0
+1630573,Sam Hauser,Sam,Hauser,Celtics,577.0,35.0,612.0
+1629637,Jaxson Hayes,Jaxson,Hayes,Pelicans,1808.0,35.0,1843.0
+1630165,Killian Hayes,Killian,Hayes,Pistons,1415.0,0.0,1415.0
+202330,Gordon Hayward,Gordon,Hayward,Hornets,12187.0,434.0,12621.0
+1627823,Juancho Hernangomez,Juancho,Hernangomez,NOTEAM,1711.0,17.0,1728.0
+1626195,Willy Hernangomez,Willy,Hernangomez,Pelicans,2524.0,2.0,2526.0
+1629639,Tyler Herro,Tyler,Herro,Heat,4272.0,573.0,4845.0
+1627741,Buddy Hield,Buddy,Hield,Pacers,8807.0,0.0,8807.0
+1629312,Haywood Highsmith,Haywood,Highsmith,Heat,288.0,69.0,357.0
+201588,George Hill,George,Hill,Pacers,9545.0,1592.0,11137.0
+1630792,Malcolm Hill,Malcolm,Hill,NOTEAM,77.0,0.0,77.0
+1628988,Aaron Holiday,Aaron,Holiday,Hawks,2043.0,57.0,2100.0
+201950,Jrue Holiday,Jrue,Holiday,Bucks,14876.0,1226.0,16102.0
+203200,Justin Holiday,Justin,Holiday,Mavericks,5210.0,32.0,5242.0
+1626158,Richaun Holmes,Richaun,Holmes,Kings,3735.0,0.0,3735.0
+1631096,Chet Holmgren,Chet,Holmgren,NOTEAM,,,
+201143,Al Horford,Al,Horford,Celtics,13605.0,2091.0,15696.0
+1629659,Talen Horton-Tucker,Talen,Horton-Tucker,Jazz,1914.0,40.0,1954.0
+1627863,Danuel House Jr.,Danuel,House Jr.,76ers,2011.0,183.0,2194.0
+1631216,Caleb Houstan,Caleb,Houstan,Magic,193.0,0.0,193.0
+1631309,Trevor Hudgins,Trevor,Hudgins,Rockets,9.0,0.0,9.0
+1628989,Kevin Huerter,Kevin,Huerter,Kings,4265.0,309.0,4574.0
+1630643,Jay Huff,Jay,Huff,Wizards,51.0,0.0,51.0
+1629631,De'Andre Hunter,De'Andre,Hunter,Hawks,2860.0,260.0,3120.0
+1630538,Bones Hyland,Bones,Hyland,Clippers,1357.0,89.0,1446.0
+201586,Serge Ibaka,Serge,Ibaka,NOTEAM,11028.0,1608.0,12636.0
+2738,Andre Iguodala,Andre,Iguodala,Warriors,13968.0,1661.0,15629.0
+204060,Joe Ingles,Joe,Ingles,Bucks,5411.0,473.0,5884.0
+1627742,Brandon Ingram,Brandon,Ingram,Pelicans,7924.0,162.0,8086.0
+202681,Kyrie Irving,Kyrie,Irving,Mavericks,15712.0,1724.0,17436.0
+1628371,Jonathan Isaac,Jonathan,Isaac,Magic,1324.0,33.0,1357.0
+1631093,Jaden Ivey,Jaden,Ivey,Pistons,1204.0,0.0,1204.0
+1628402,Frank Jackson,Frank,Jackson,NOTEAM,1816.0,0.0,1816.0
+1630543,Isaiah Jackson,Isaiah,Jackson,Pacers,752.0,0.0,752.0
+1628382,Justin Jackson,Justin,Jackson,NOTEAM,1676.0,10.0,1686.0
+1631245,Quenton Jackson,Quenton,Jackson,Wizards,56.0,0.0,56.0
+202704,Reggie Jackson,Reggie,Jackson,Nuggets,9876.0,891.0,10767.0
+1628991,Jaren Jackson Jr.,Jaren,Jackson Jr.,Grizzlies,4391.0,361.0,4752.0
+2544,LeBron James,LeBron,James,Lakers,38652.0,8023.0,46675.0
+1629610,DaQuan Jeffries,DaQuan,Jeffries,NOTEAM,,,
+1629660,Ty Jerome,Ty,Jerome,Warriors,1104.0,0.0,1104.0
+1630198,Isaiah Joe,Isaiah,Joe,Thunder,1042.0,7.0,1049.0
+1628993,Alize Johnson,Alize,Johnson,NOTEAM,189.0,8.0,197.0
+1629661,Cameron Johnson,Cameron,Johnson,Nets,2549.0,386.0,2935.0
+1630552,Jalen Johnson,Jalen,Johnson,Hawks,447.0,26.0,473.0
+201949,James Johnson,James,Johnson,Pacers,5814.0,115.0,5929.0
+1629640,Keldon Johnson,Keldon,Johnson,Spurs,3698.0,0.0,3698.0
+1630553,Keon Johnson,Keon,Johnson,Trail Blazers,456.0,0.0,456.0
+1626169,Stanley Johnson,Stanley,Johnson,NOTEAM,2806.0,45.0,2851.0
+203999,Nikola Jokic,Nikola,Jokic,Nuggets,12054.0,1869.0,13923.0
+1630637,Carlik Jones,Carlik,Jones,Bulls,24.0,0.0,24.0
+1627745,Damian Jones,Damian,Jones,Jazz,1259.0,14.0,1273.0
+1630529,Herbert Jones,Herbert,Jones,Pelicans,1391.0,64.0,1455.0
+1630539,Kai Jones,Kai,Jones,Hornets,179.0,0.0,179.0
+1630200,Tre Jones,Tre,Jones,Spurs,1382.0,0.0,1382.0
+1626145,Tyus Jones,Tyus,Jones,Grizzlies,3630.0,156.0,3786.0
+1627884,Derrick Jones Jr.,Derrick,Jones Jr.,Bulls,2152.0,45.0,2197.0
+201599,DeAndre Jordan,DeAndre,Jordan,Nuggets,9132.0,573.0,9705.0
+202709,Cory Joseph,Cory,Joseph,Pistons,5588.0,430.0,6018.0
+1631107,Nikola Jovic,Nikola,Jovic,Heat,82.0,2.0,84.0
+1630548,Johnny Juzang,Johnny,Juzang,Jazz,87.0,0.0,87.0
+1629662,Mfiondu Kabengele,Mfiondu,Kabengele,Celtics,143.0,0.0,143.0
+1626163,Frank Kaminsky,Frank,Kaminsky,Rockets,3630.0,72.0,3702.0
+1631211,Trevor Keels,Trevor,Keels,Knicks,3.0,0.0,3.0
+1628379,Luke Kennard,Luke,Kennard,Grizzlies,3512.0,180.0,3692.0
+1631117,Walker Kessler,Walker,Kessler,Jazz,679.0,0.0,679.0
+1630296,Braxton Key,Braxton,Key,NOTEAM,83.0,0.0,83.0
+1629663,Louis King,Louis,King,76ers,129.0,0.0,129.0
+1630557,Corey Kispert,Corey,Kispert,Wizards,1454.0,0.0,1454.0
+1628467,Maxi Kleber,Maxi,Kleber,Mavericks,2527.0,234.0,2761.0
+1630233,Nathan Knight,Nathan,Knight,Timberwolves,401.0,6.0,407.0
+1628995,Kevin Knox II,Kevin,Knox II,Trail Blazers,2053.0,24.0,2077.0
+1631132,Christian Koloko,Christian,Koloko,Raptors,182.0,0.0,182.0
+1629723,John Konchar,John,Konchar,Grizzlies,951.0,13.0,964.0
+1627788,Furkan Korkmaz,Furkan,Korkmaz,76ers,2156.0,139.0,2295.0
+1628436,Luke Kornet,Luke,Kornet,Celtics,1068.0,27.0,1095.0
+1630249,Vit Krejci,Vit,Krejci,Hawks,223.0,0.0,223.0
+1630228,Jonathan Kuminga,Jonathan,Kuminga,Warriors,1318.0,117.0,1435.0
+1628398,Kyle Kuzma,Kyle,Kuzma,Wizards,6693.0,247.0,6940.0
+1631222,Jake LaRavia,Jake,LaRavia,Grizzlies,105.0,0.0,105.0
+203897,Zach LaVine,Zach,LaVine,Bulls,11379.0,77.0,11456.0
+1630237,Anthony Lamb,Anthony,Lamb,Warriors,548.0,5.0,553.0
+1629111,Jock Landale,Jock,Landale,Suns,721.0,43.0,764.0
+1629641,Romeo Langford,Romeo,Langford,Spurs,650.0,46.0,696.0
+1630639,A.J. Lawson,A.J.,Lawson,Mavericks,56.0,0.0,56.0
+1627747,Caris LeVert,Caris,LeVert,Cavaliers,5546.0,261.0,5807.0
+1627814,Damion Lee,Damion,Lee,Suns,2384.0,49.0,2433.0
+1630240,Saben Lee,Saben,Lee,Suns,626.0,0.0,626.0
+203458,Alex Len,Alex,Len,Kings,4414.0,39.0,4453.0
+202695,Kawhi Leonard,Kawhi,Leonard,Clippers,12324.0,2934.0,15258.0
+203086,Meyers Leonard,Meyers,Leonard,Bucks,2545.0,148.0,2693.0
+1631171,Justin Lewis,Justin,Lewis,NOTEAM,,,
+1630184,Kira Lewis Jr.,Kira,Lewis Jr.,Pelicans,598.0,0.0,598.0
+1630604,E.J. Liddell,E.J.,Liddell,NOTEAM,,,
+203081,Damian Lillard,Damian,Lillard,Trail Blazers,19376.0,1569.0,20945.0
+1629642,Nassir Little,Nassir,Little,Trail Blazers,1161.0,5.0,1166.0
+1630587,Isaiah Livers,Isaiah,Livers,Pistons,467.0,0.0,467.0
+1631254,Kenneth Lofton Jr.,Kenneth,Lofton Jr.,Grizzlies,120.0,7.0,127.0
+1626172,Kevon Looney,Kevon,Looney,Warriors,2299.0,446.0,2745.0
+201572,Brook Lopez,Brook,Lopez,Bucks,15486.0,1121.0,16607.0
+201577,Robin Lopez,Robin,Lopez,Cavaliers,8308.0,310.0,8618.0
+201567,Kevin Love,Kevin,Love,Heat,14814.0,1103.0,15917.0
+200768,Kyle Lowry,Kyle,Lowry,Heat,15731.0,1794.0,17525.0
+1626168,Trey Lyles,Trey,Lyles,Kings,4065.0,53.0,4118.0
+1630177,Theo Maledon,Theo,Maledon,Hornets,1314.0,0.0,1314.0
+1630572,Sandro Mamukelashvili,Sandro,Mamukelashvili,Spurs,417.0,0.0,417.0
+1629611,Terance Mann,Terance,Mann,Clippers,2156.0,201.0,2357.0
+1630544,Tre Mann,Tre,Mann,Thunder,1142.0,0.0,1142.0
+1626246,Boban Marjanovic,Boban,Marjanovic,Rockets,1790.0,180.0,1970.0
+1628374,Lauri Markkanen,Lauri,Markkanen,Jazz,6030.0,0.0,6030.0
+1630230,Naji Marshall,Naji,Marshall,Pelicans,1257.0,18.0,1275.0
+1628997,Caleb Martin,Caleb,Martin,Heat,1609.0,367.0,1976.0
+1628998,Cody Martin,Cody,Martin,Hornets,1024.0,0.0,1024.0
+1631213,Tyrese Martin,Tyrese,Martin,Hawks,21.0,0.0,21.0
+1630231,Kenyon Martin Jr.,Kenyon,Martin Jr.,Rockets,2154.0,0.0,2154.0
+1629726,Garrison Mathews,Garrison,Mathews,Hawks,1359.0,4.0,1363.0
+1631097,Bennedict Mathurin,Bennedict,Mathurin,Pacers,1302.0,0.0,1302.0
+202083,Wesley Matthews,Wesley,Matthews,Bucks,11100.0,654.0,11754.0
+1630178,Tyrese Maxey,Tyrese,Maxey,76ers,3017.0,551.0,3568.0
+1630540,Miles McBride,Miles,McBride,Knicks,311.0,3.0,314.0
+1630644,Mac McClung,Mac,McClung,76ers,33.0,0.0,33.0
+203468,C.J. McCollum,C.J.,McCollum,Pelicans,12909.0,1273.0,14182.0
+204456,T.J. McConnell,T.J.,McConnell,Pacers,3949.0,86.0,4035.0
+1630183,Jaden McDaniels,Jaden,McDaniels,Timberwolves,2027.0,56.0,2083.0
+1629667,Jalen McDaniels,Jalen,McDaniels,76ers,1530.0,19.0,1549.0
+203926,Doug McDermott,Doug,McDermott,Spurs,5500.0,46.0,5546.0
+201580,JaVale McGee,JaVale,McGee,Mavericks,6722.0,416.0,7138.0
+1631121,Bryce McGowens,Bryce,McGowens,Hornets,246.0,0.0,246.0
+203585,Rodney McGruder,Rodney,McGruder,Pistons,1825.0,10.0,1835.0
+1629162,Jordan McLaughlin,Jordan,McLaughlin,Timberwolves,879.0,31.0,910.0
+1629001,De'Anthony Melton,De'Anthony,Melton,76ers,2748.0,174.0,2922.0
+1630241,Sam Merrill,Sam,Merrill,Cavaliers,139.0,5.0,144.0
+1629002,Chimezie Metu,Chimezie,Metu,Kings,1190.0,2.0,1192.0
+203114,Khris Middleton,Khris,Middleton,Bucks,11633.0,1502.0,13135.0
+201988,Patty Mills,Patty,Mills,Nets,7766.0,632.0,8398.0
+1629003,Shake Milton,Shake,Milton,76ers,2368.0,178.0,2546.0
+1631169,Josh Minott,Josh,Minott,Timberwolves,46.0,0.0,46.0
+1630558,Davion Mitchell,Davion,Mitchell,Kings,1311.0,50.0,1361.0
+1628378,Donovan Mitchell,Donovan,Mitchell,Cavaliers,10156.0,1221.0,11377.0
+1630596,Evan Mobley,Evan,Mobley,Cavaliers,2311.0,49.0,2360.0
+1630600,Isaiah Mobley,Isaiah,Mobley,Cavaliers,31.0,0.0,31.0
+1631320,Chima Moneke,Chima,Moneke,NOTEAM,2.0,0.0,2.0
+1628370,Malik Monk,Malik,Monk,Kings,4217.0,133.0,4350.0
+1630541,Moses Moody,Moses,Moody,Warriors,530.0,111.0,641.0
+1629875,Xavier Moon,Xavier,Moon,Clippers,65.0,0.0,65.0
+1631111,Wendell Moore Jr.,Wendell,Moore Jr.,Timberwolves,42.0,0.0,42.0
+1629630,Ja Morant,Ja,Morant,Grizzlies,5557.0,518.0,6075.0
+202693,Markieff Morris,Markieff,Morris,Mavericks,7954.0,368.0,8322.0
+1628420,Monte Morris,Monte,Morris,Wizards,3583.0,454.0,4037.0
+202694,Marcus Morris Sr.,Marcus,Morris Sr.,Clippers,9649.0,841.0,10490.0
+1630530,Trey Murphy III,Trey,Murphy III,Pelicans,1482.0,31.0,1513.0
+1627749,Dejounte Murray,Dejounte,Murray,Hawks,5508.0,217.0,5725.0
+1627750,Jamal Murray,Jamal,Murray,Nuggets,6937.0,1324.0,8261.0
+1631099,Keegan Murray,Keegan,Murray,Kings,976.0,68.0,1044.0
+203488,Mike Muscala,Mike,Muscala,Celtics,3049.0,95.0,3144.0
+1629004,Svi Mykhailiuk,Svi,Mykhailiuk,Hornets,1673.0,1.0,1674.0
+1626204,Larry Nance Jr.,Larry,Nance Jr.,Pelicans,3651.0,151.0,3802.0
+1629614,Andrew Nembhard,Andrew,Nembhard,Pacers,709.0,0.0,709.0
+1630174,Aaron Nesmith,Aaron,Nesmith,Pacers,1152.0,28.0,1180.0
+203526,Raul Neto,Raul,Neto,Cavaliers,2470.0,87.0,2557.0
+1627777,Georges Niang,Georges,Niang,76ers,2494.0,221.0,2715.0
+1630227,Daishen Nix,Daishen,Nix,Rockets,303.0,0.0,303.0
+1630192,Zeke Nnaji,Zeke,Nnaji,Nuggets,683.0,20.0,703.0
+203457,Nerlens Noel,Nerlens,Noel,NOTEAM,3338.0,68.0,3406.0
+1629669,Jaylen Nowell,Jaylen,Nowell,Timberwolves,1667.0,22.0,1689.0
+1628373,Frank Ntilikina,Frank,Ntilikina,Mavericks,1530.0,23.0,1553.0
+1629134,Kendrick Nunn,Kendrick,Nunn,Wizards,2336.0,133.0,2469.0
+203994,Jusuf Nurkic,Jusuf,Nurkic,Trail Blazers,5709.0,199.0,5908.0
+1629670,Jordan Nwora,Jordan,Nwora,Pacers,1200.0,19.0,1219.0
+1626220,Royce O'Neale,Royce,O'Neale,Nets,2956.0,351.0,3307.0
+1629643,Chuma Okeke,Chuma,Okeke,Magic,1082.0,0.0,1082.0
+1629006,Josh Okogie,Josh,Okogie,Suns,2081.0,41.0,2122.0
+1630168,Onyeka Okongwu,Onyeka,Okongwu,Hawks,1411.0,110.0,1521.0
+1630171,Isaac Okoro,Isaac,Okoro,Cavaliers,1724.0,32.0,1756.0
+1629644,KZ Okpala,KZ,Okpala,NOTEAM,222.0,0.0,222.0
+203506,Victor Oladipo,Victor,Oladipo,Heat,8503.0,466.0,8969.0
+203482,Kelly Olynyk,Kelly,Olynyk,Jazz,6993.0,379.0,7372.0
+1630647,Eugene Omoruyi,Eugene,Omoruyi,Pistons,285.0,0.0,285.0
+1626224,Cedi Osman,Cedi,Osman,Cavaliers,3938.0,44.0,3982.0
+1626162,Kelly Oubre Jr.,Kelly,Oubre Jr.,Hornets,6741.0,126.0,6867.0
+101108,Chris Paul,Chris,Paul,Suns,21755.0,2981.0,24736.0
+1626166,Cameron Payne,Cameron,Payne,Suns,2625.0,337.0,2962.0
+1627780,Gary Payton II,Gary,Payton II,Warriors,841.0,160.0,1001.0
+1629033,Theo Pinson,Theo,Pinson,Mavericks,346.0,9.0,355.0
+1630590,Scotty Pippen Jr.,Scotty,Pippen Jr.,Lakers,14.0,0.0,14.0
+203486,Mason Plumlee,Mason,Plumlee,Clippers,6341.0,262.0,6603.0
+1627751,Jakob Poeltl,Jakob,Poeltl,Raptors,3932.0,110.0,4042.0
+1630197,Aleksej Pokusevski,Aleksej,Pokusevski,Thunder,1107.0,0.0,1107.0
+1629673,Jordan Poole,Jordan,Poole,Warriors,4195.0,507.0,4702.0
+1629645,Kevin Porter Jr.,Kevin,Porter Jr.,Rockets,3008.0,0.0,3008.0
+1629008,Michael Porter Jr.,Michael,Porter Jr.,Nuggets,2843.0,657.0,3500.0
+203490,Otto Porter Jr.,Otto,Porter Jr.,Raptors,5380.0,412.0,5792.0
+1626171,Bobby Portis,Bobby,Portis,Bucks,6008.0,391.0,6399.0
+204001,Kristaps Porzingis,Kristaps,Porzingis,Wizards,7876.0,163.0,8039.0
+1630695,Micah Potter,Micah,Potter,Jazz,36.0,0.0,36.0
+203939,Dwight Powell,Dwight,Powell,Mavericks,4432.0,101.0,4533.0
+1626181,Norman Powell,Norman,Powell,Clippers,5795.0,693.0,6488.0
+1630554,Jason Preston,Jason,Preston,Clippers,41.0,0.0,41.0
+1630563,Joshua Primo,Joshua,Primo,NOTEAM,316.0,0.0,316.0
+1627752,Taurean Prince,Taurean,Prince,Timberwolves,4392.0,136.0,4528.0
+1630202,Payton Pritchard,Payton,Pritchard,Celtics,1222.0,163.0,1385.0
+1630243,Trevelin Queen,Trevelin,Queen,NOTEAM,64.0,0.0,64.0
+1629674,Neemias Queta,Neemias,Queta,Kings,57.0,0.0,57.0
+1630193,Immanuel Quickley,Immanuel,Quickley,Knicks,2822.0,101.0,2923.0
+1631311,Lester Quinones,Lester,Quinones,Warriors,10.0,0.0,10.0
+203944,Julius Randle,Julius,Randle,Knicks,11127.0,256.0,11383.0
+1630559,Austin Reaves,Austin,Reaves,Lakers,1277.0,270.0,1547.0
+1629629,Cam Reddish,Cam,Reddish,Trail Blazers,1786.0,51.0,1837.0
+1628432,Davon Reed,Davon,Reed,NOTEAM,373.0,0.0,373.0
+1630194,Paul Reed,Paul,Reed,76ers,491.0,99.0,590.0
+1629675,Naz Reid,Naz,Reid,Timberwolves,2471.0,24.0,2495.0
+1631197,Jared Rhoden,Jared,Rhoden,Pistons,45.0,0.0,45.0
+1630208,Nick Richards,Nick,Richards,Hornets,697.0,0.0,697.0
+1626196,Josh Richardson,Josh,Richardson,Pelicans,5924.0,236.0,6160.0
+203085,Austin Rivers,Austin,Rivers,Timberwolves,5996.0,457.0,6453.0
+1629130,Duncan Robinson,Duncan,Robinson,Heat,3106.0,566.0,3672.0
+1629011,Mitchell Robinson,Mitchell,Robinson,Knicks,2376.0,71.0,2447.0
+1631115,Orlando Robinson,Orlando,Robinson,Heat,116.0,0.0,116.0
+1630526,Jeremiah Robinson-Earl,Jeremiah,Robinson-Earl,Thunder,658.0,0.0,658.0
+1629676,Isaiah Roby,Isaiah,Roby,Knicks,1159.0,0.0,1159.0
+1631223,David Roddy,David,Roddy,Grizzlies,466.0,23.0,489.0
+1631157,Ryan Rollins,Ryan,Rollins,Warriors,23.0,0.0,23.0
+201565,Derrick Rose,Derrick,Rose,Knicks,12382.0,1141.0,13523.0
+203082,Terrence Ross,Terrence,Ross,Suns,8047.0,359.0,8406.0
+1626179,Terry Rozier,Terry,Rozier,Hornets,7368.0,491.0,7859.0
+201937,Ricky Rubio,Ricky,Rubio,Cavaliers,7570.0,161.0,7731.0
+1626156,D'Angelo Russell,D'Angelo,Russell,Lakers,8767.0,382.0,9149.0
+1630346,Matt Ryan,Matt,Ryan,Timberwolves,125.0,0.0,125.0
+1627734,Domantas Sabonis,Domantas,Sabonis,Kings,7471.0,240.0,7711.0
+203967,Dario Saric,Dario,Saric,Thunder,4542.0,235.0,4777.0
+1630846,Olivier Sarr,Olivier,Sarr,Thunder,189.0,0.0,189.0
+1630648,Jordan Schakel,Jordan,Schakel,NOTEAM,8.0,0.0,8.0
+1629678,Admiral Schofield,Admiral,Schofield,Magic,400.0,0.0,400.0
+203471,Dennis Schroder,Dennis,Schroder,Lakers,9636.0,808.0,10444.0
+1631220,Dereon Seabron,Dereon,Seabron,Pelicans,4.0,0.0,4.0
+1630578,Alperen Sengun,Alperen,Sengun,Rockets,1801.0,0.0,1801.0
+1629012,Collin Sexton,Collin,Sexton,Jazz,5041.0,0.0,5041.0
+1629013,Landry Shamet,Landry,Shamet,Suns,2700.0,264.0,2964.0
+1630549,Day'Ron Sharpe,Day'Ron,Sharpe,Nets,425.0,6.0,431.0
+1631101,Shaedon Sharpe,Shaedon,Sharpe,Trail Blazers,789.0,0.0,789.0
+1627783,Pascal Siakam,Pascal,Siakam,Raptors,8010.0,845.0,8855.0
+1629735,Chris Silva,Chris,Silva,,193.0,0.0,193.0
+1627732,Ben Simmons,Ben,Simmons,Nets,4673.0,473.0,5146.0
+1630250,Marko Simonovic,Marko,Simonovic,Bulls,23.0,0.0,23.0
+1629014,Anfernee Simons,Anfernee,Simons,Trail Blazers,3450.0,70.0,3520.0
+1630579,Jericho Sims,Jericho,Sims,Knicks,268.0,0.0,268.0
+203935,Marcus Smart,Marcus,Smart,Celtics,6141.0,1377.0,7518.0
+1630696,Dru Smith,Dru,Smith,Nets,44.0,0.0,44.0
+202397,Ish Smith,Ish,Smith,Nuggets,5573.0,64.0,5637.0
+1630188,Jalen Smith,Jalen,Smith,Pacers,1165.0,5.0,1170.0
+1628372,Dennis Smith Jr.,Dennis,Smith Jr.,Hornets,2791.0,0.0,2791.0
+1631095,Jabari Smith Jr.,Jabari,Smith Jr.,Rockets,1010.0,0.0,1010.0
+1631110,Jeremy Sochan,Jeremy,Sochan,Spurs,614.0,0.0,614.0
+1630531,Jaden Springer,Jaden,Springer,76ers,44.0,15.0,59.0
+1630205,Lamar Stevens,Lamar,Stevens,Cavaliers,876.0,5.0,881.0
+1630191,Isaiah Stewart,Isaiah,Stewart,Pistons,1693.0,0.0,1693.0
+1629622,Max Strus,Max,Strus,Heat,1885.0,411.0,2296.0
+1630591,Jalen Suggs,Jalen,Suggs,Magic,1088.0,0.0,1088.0
+1628410,Edmond Sumner,Edmond,Sumner,Nets,997.0,6.0,1003.0
+1631306,Cole Swider,Cole,Swider,Lakers,9.0,0.0,9.0
+1630256,Jae'Sean Tate,Jae'Sean,Tate,Rockets,1996.0,0.0,1996.0
+1628369,Jayson Tatum,Jayson,Tatum,Celtics,9865.0,2236.0,12101.0
+1630678,Terry Taylor,Terry,Taylor,Bulls,407.0,0.0,407.0
+202066,Garrett Temple,Garrett,Temple,Pelicans,4441.0,78.0,4519.0
+1631207,Dalen Terry,Dalen,Terry,Bulls,85.0,0.0,85.0
+1628464,Daniel Theis,Daniel,Theis,Pacers,2366.0,233.0,2599.0
+1630560,Cam Thomas,Cam,Thomas,Nets,1174.0,6.0,1180.0
+202691,Klay Thompson,Klay,Thompson,Warriors,14156.0,3032.0,17188.0
+1630550,JT Thor,JT,Thor,Hornets,329.0,0.0,329.0
+1629680,Matisse Thybulle,Matisse,Thybulle,Trail Blazers,1232.0,97.0,1329.0
+1630214,Xavier Tillman,Xavier,Tillman,Grizzlies,1071.0,94.0,1165.0
+1630225,Isaiah Todd,Isaiah,Todd,Wizards,29.0,0.0,29.0
+1630167,Obi Toppin,Obi,Toppin,Knicks,1398.0,109.0,1507.0
+1629308,Juan Toscano-Anderson,Juan,Toscano-Anderson,Jazz,823.0,11.0,834.0
+1626157,Karl-Anthony Towns,Karl-Anthony,Towns,Timberwolves,11772.0,298.0,12070.0
+1629018,Gary Trent Jr.,Gary,Trent Jr.,Raptors,3900.0,140.0,4040.0
+200782,P.J. Tucker,P.J.,Tucker,76ers,5802.0,715.0,6517.0
+1626167,Myles Turner,Myles,Turner,Pacers,6598.0,304.0,6902.0
+1630649,Stanley Umude,Stanley,Umude,NOTEAM,2.0,0.0,2.0
+202685,Jonas Valanciunas,Jonas,Valanciunas,Pelicans,10434.0,706.0,11140.0
+1627832,Fred VanVleet,Fred,VanVleet,Raptors,6090.0,518.0,6608.0
+1629020,Jarred Vanderbilt,Jarred,Vanderbilt,Lakers,1511.0,102.0,1613.0
+1630170,Devin Vassell,Devin,Vassell,Spurs,1916.0,0.0,1916.0
+1629216,Gabe Vincent,Gabe,Vincent,Heat,1496.0,428.0,1924.0
+203943,Noah Vonleh,Noah,Vonleh,NOTEAM,1685.0,18.0,1703.0
+202696,Nikola Vucevic,Nikola,Vucevic,Bulls,14000.0,294.0,14294.0
+1629731,Dean Wade,Dean,Wade,Cavaliers,871.0,2.0,873.0
+1630532,Franz Wagner,Franz,Wagner,Magic,2682.0,0.0,2682.0
+1629021,Moritz Wagner,Moritz,Wagner,Magic,2074.0,0.0,2074.0
+1630688,Ish Wainright,Ish,Wainright,Suns,359.0,16.0,375.0
+1631133,Jabari Walker,Jabari,Walker,Trail Blazers,216.0,0.0,216.0
+202689,Kemba Walker,Kemba,Walker,NOTEAM,14486.0,609.0,15095.0
+1629022,Lonnie Walker IV,Lonnie,Walker IV,Lakers,2606.0,86.0,2692.0
+202322,John Wall,John,Wall,NOTEAM,12088.0,810.0,12898.0
+203933,T.J. Warren,T.J.,Warren,Suns,5456.0,96.0,5552.0
+1629023,P.J. Washington,P.J.,Washington,Hornets,3346.0,0.0,3346.0
+1630613,Duane Washington Jr.,Duane,Washington Jr.,Knicks,717.0,0.0,717.0
+1631102,TyTy Washington Jr.,TyTy,Washington Jr.,Rockets,145.0,0.0,145.0
+1629139,Yuta Watanabe,Yuta,Watanabe,Nets,778.0,7.0,785.0
+1630322,Lindy Waters III,Lindy,Waters III,Thunder,413.0,0.0,413.0
+1630570,Trendon Watford,Trendon,Watford,Trail Blazers,823.0,0.0,823.0
+1631212,Peyton Watson,Peyton,Watson,Nuggets,75.0,5.0,80.0
+1631104,Blake Wesley,Blake,Wesley,Spurs,184.0,0.0,184.0
+201566,Russell Westbrook,Russell,Westbrook,Clippers,24457.0,2845.0,27302.0
+1629632,Coby White,Coby,White,Bulls,3387.0,42.0,3429.0
+1628401,Derrick White,Derrick,White,Celtics,4044.0,576.0,4620.0
+1631298,Jack White,Jack,White,Nuggets,21.0,0.0,21.0
+1630580,Joe Wieskamp,Joe,Wieskamp,Raptors,70.0,0.0,70.0
+1630598,Aaron Wiggins,Aaron,Wiggins,Thunder,895.0,0.0,895.0
+203952,Andrew Wiggins,Andrew,Wiggins,Warriors,12152.0,659.0,12811.0
+1629623,Lindell Wigginton,Lindell,Wigginton,Bucks,130.0,0.0,130.0
+1631214,Alondes Williams,Alondes,Williams,NOTEAM,0.0,0.0,0.0
+1631495,Donovan Williams,Donovan,Williams,Hawks,4.0,0.0,4.0
+1629684,Grant Williams,Grant,Williams,Celtics,1774.0,347.0,2121.0
+1631114,Jalen Williams,Jalen,Williams,Thunder,1056.0,0.0,1056.0
+1631119,Jaylin Williams,Jaylin,Williams,Thunder,288.0,0.0,288.0
+1629026,Kenrich Williams,Kenrich,Williams,Thunder,1729.0,0.0,1729.0
+1631109,Mark Williams,Mark,Williams,Hornets,387.0,0.0,387.0
+1630172,Patrick Williams,Patrick,Williams,Bulls,1641.0,59.0,1700.0
+1630533,Ziaire Williams,Ziaire,Williams,Grizzlies,711.0,74.0,785.0
+1629057,Robert Williams III,Robert,Williams III,Celtics,1534.0,355.0,1889.0
+1631246,Vince Williams Jr.,Vince,Williams Jr.,Grizzlies,30.0,0.0,30.0
+1629627,Zion Williamson,Zion,Williamson,Pelicans,2941.0,0.0,2941.0
+1629685,Dylan Windler,Dylan,Windler,Cavaliers,276.0,0.0,276.0
+1626159,Justise Winslow,Justise,Winslow,Trail Blazers,2829.0,139.0,2968.0
+1630164,James Wiseman,James,Wiseman,Pistons,898.0,0.0,898.0
+1626174,Christian Wood,Christian,Wood,Mavericks,4270.0,0.0,4270.0
+1626153,Delon Wright,Delon,Wright,Wizards,3321.0,182.0,3503.0
+1630593,McKinley Wright IV,McKinley,Wright IV,Mavericks,119.0,0.0,119.0
+201152,Thaddeus Young,Thaddeus,Young,Raptors,14088.0,542.0,14630.0
+1629027,Trae Young,Trae,Young,Hawks,8990.0,713.0,9703.0
+1630209,Omer Yurtseven,Omer,Yurtseven,Heat,339.0,29.0,368.0
+203469,Cody Zeller,Cody,Zeller,Heat,4300.0,113.0,4413.0
+1627826,Ivica Zubac,Ivica,Zubac,Clippers,3819.0,291.0,4110.0
